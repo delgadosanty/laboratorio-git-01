@@ -10,3 +10,6 @@ Actualmente estoy interesado en aprender programación y desarrollo de software.
 
 
 Uno de mis objetivos es desarrollar proyectos que me permitan aplicar lo aprendido.
+
+
+También me interesa aprender sobre nuevas tecnologías.
